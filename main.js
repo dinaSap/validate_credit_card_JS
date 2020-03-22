@@ -27,7 +27,7 @@ const invalid6 = [3, 1, 1, 1, 4, 5, 6]
 const invalid7 = [9, 8, 7, 6, 5, 4, 3, 3, 2, 1]
 const other = [valid6, invalid6, invalid7, valid7]
 
-// Add your functions below:
+// Function to validate credit card number:
 function  validateCred(arr) {
   let newArr = [];
   let test = 0;
